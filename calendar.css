@@ -1,0 +1,51 @@
+#div1 {
+  padding: 10px;
+  width: 250px;
+  height: 240px;
+  text-align: center;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  font-size: 16px;
+  font-family: Arial;
+  background-image: linear-gradient(#ade, #d3d3d3);
+}
+
+#div2 {
+  padding: 10px;
+  width: 250px;
+  height: 240px;
+  text-align: center;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  font-size: 16px;
+  font-family: Arial;
+  background-image: linear-gradient(#ebc, #d3d3d3);
+}
+
+#calendar-container>div{
+  padding: 0;
+  margin-bottom: 10px;
+}
+#div1>div{
+  margin: 5px;
+}
+
+#div2>div{
+  margin: 5px;
+}
+#div1>table>tr>td{
+  padding: 5px;
+} 
+
+#div2>table>tr>td{
+  padding: 5px;
+}
+
+.ntd {
+    color: gray;
+} 
+
+.title {
+    width: 200px;
+    display:inline-block;
+}
